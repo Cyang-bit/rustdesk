@@ -321,3 +321,4 @@ class _ConnectionPageState extends State<ConnectionPage>
 
   /// UI for the remote ID TextField.
   /// Search for a peer.
+}
